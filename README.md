@@ -1,4 +1,7 @@
-### Hi there 👋
+Hi my name is Peter, actually a student in human booster acadamy.
+
+
+
 
 <!--
 **KOMUPeter/KOMUPeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
