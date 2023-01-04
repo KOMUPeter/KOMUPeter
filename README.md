@@ -1,12 +1,13 @@
 # Peters' Background
 
 ## Holiday inn.
-*- Formigueres*
-*- Prades*
-*- Others*
+- Formigueres
+- Prades
+- Others
+
 This years planning for the group will be as indicated above. 
 
-![Zone One](barrage.jpg)
+![Zone one](barrage.jpg)
 
 [Ski zone](https://www.explorenicecotedazur.com/en/explore/activities-nice-cote-dazur/snow-and-ski/)
 
